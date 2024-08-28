@@ -98,6 +98,9 @@ npm install
 
 ```
 npm run dev
+
+npm install && npm run dev
+
 ```
 
 **7. Gehen Sie zu [localhost:3000](http://localhost:3000) und beginnen Sie, mit Ihrem bevorzugten Modell zu chatten!**

@@ -1,0 +1,12 @@
+[
+  {
+    "cmd": "example_command",
+    "act": "example_action",
+    "prompt": "example_prompt_text",
+    "enable": true,
+    "tags": [
+      "tag1",
+      "tag2"
+    ]
+  }
+]
