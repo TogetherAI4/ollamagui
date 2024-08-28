@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ filename }} bearbeiten</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/prompts">Prompts</a></li>
+                <li><a href="/markdown">Markdown Dateien</a></li>
+                <li><a href="/chat">Chat</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h1>{{ filename }} bearbeiten</h1>
+        <form method="post">
+            <textarea name="content" rows="20">{{ content }}</textarea>
+            <button type="submit">Speichern</button>
+            <a href="{{ url_for('list_markdown') }}" class="button">Abbrechen</a>
+        </form>
+    </div>
+</body>
+</html>

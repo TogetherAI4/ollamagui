@@ -1,0 +1,18 @@
+AuthorName: Ahmed
+AuthorURL: http://ahmedbaig.co/
+
+Title: Authoritative introduction
+Category: writing
+Teaser: Create an introduction from title, table of content, and (facts, figure, and other info like statistics)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-11T11:33:05.981Z
+Help: 
+ID: 1789951997823410176
+PromptHint: [Articletitle] [Tableofcontent] [STATS & FIGURES]
+PromptPackageID: 0
+
+Prompt:
+Write a magazine-like introduction for: [Articletitle] It must include "what we will discuss" in one line given by the user as [Tableofcontent]. If the user give stats or facts or figure to discuss [STATS & FIGURES], so must include it as a hook initially in introduction. Output [TARGETLANGUAGE] will be Enlgish.
+
+[PROMPT]]

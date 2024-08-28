@@ -1,0 +1,18 @@
+AuthorName: Skoways
+AuthorURL: https://skoways.com/
+
+Title: Profitable Google Adsense Blog Ideas
+Category: ideation
+Teaser: Get profitable Google Adsense micro niche blog ideas.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-09T00:19:12.672Z
+Help: 
+ID: 1789057632502538240
+PromptHint: [Paste Niche Here] Example: Technology
+PromptPackageID: 0
+
+Prompt:
+I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE].
+Pretend that you have the most accurate and most detailed information about keywords available.
+Give me 15 most profitable Google Adsense micro niche blog ideas that have high Cost per click in 2023. [PROMPT]

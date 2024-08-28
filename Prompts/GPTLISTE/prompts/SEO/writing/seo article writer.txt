@@ -1,0 +1,16 @@
+AuthorName: Lawal Lekan Ridwan
+AuthorURL: https://www.producthunt.com/products/1000-chatgpt-prompts-for-all
+
+Title: Seo Article Writer
+Category: writing
+Teaser: Create 1000 words Article with Hook, Introduction and Conclusion
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-26T17:58:17.403Z
+Help: 
+ID: 1784250728303562752
+PromptHint: [Input Your Topic]
+PromptPackageID: 0
+
+Prompt:
+Write an SEO article Not less than 1000 words on [PROMPT] with a Hook, introduction and bold the H1, H2 and H3, with the Conclusion . All output shall be in  [TARGETLANGUAGE]

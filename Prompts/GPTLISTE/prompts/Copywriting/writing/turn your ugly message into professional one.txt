@@ -1,0 +1,19 @@
+AuthorName: Thasleem
+AuthorURL: https://bmc.link/thasleem
+
+Title: Turn your Ugly Message into Professional One
+Category: writing
+Teaser: Just Type what do you know in English and See the Magic, Make your Messages or Email More professional.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-09T08:06:17.702Z
+Help: 
+ID: 1789175177997971456
+PromptHint: Make this message more professional 
+PromptPackageID: 0
+
+Prompt:
+Make this message more professional Without Any grammar Mistakes. And  In The Very Bottom of the article Write This Custom Massage "
+By Me A Coffie If you Like this Message: https://bmc.link/thasleem "All Output Shall Be in  [TARGETLANGUAGE]:
+
+[PROMPT] 

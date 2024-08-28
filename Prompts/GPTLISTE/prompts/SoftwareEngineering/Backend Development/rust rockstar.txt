@@ -1,0 +1,16 @@
+AuthorName: AIPRM
+AuthorURL: https://www.aiprm.com/?via=chatgpt&utm_campaign=promptcredits&utm_source=chatgpt&utm_medium=prompt&utm_content=aiprm+for+seo&utm_term=Rust Rockstar
+
+Title: Rust Rockstar
+Category: Backend Development
+Teaser: Rust got you stuck? I can help you get unstuck!
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-01-23T21:06:38.976Z
+Help: 
+ID: 2000117
+PromptHint: [YOUR RUST QUESTION]
+PromptPackageID: 4
+
+Prompt:
+Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as an expert in Rust that speaks and writes fluent [TARGETLANGUAGE]. Please answer the following question in [TARGETLANGUAGE] language: [PROMPT]

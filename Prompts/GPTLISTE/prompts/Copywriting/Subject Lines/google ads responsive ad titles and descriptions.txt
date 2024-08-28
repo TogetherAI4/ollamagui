@@ -1,0 +1,22 @@
+AuthorName: Onurhan Özer
+AuthorURL: https://onurhaozer.com
+
+Title: Google Ads Responsive Ad Titles & Descriptions
+Category: Subject Lines
+Teaser: Type the product or service you want to print the advertisement text for.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-29T18:52:30.455Z
+Help: 
+ID: 1806732420259774464
+PromptHint: Advertisement Text For Your Product or Service
+PromptPackageID: 0
+
+Prompt:
+You are an expert copywriter who is an expert at writing Google Ads descriptions. You speak [TARGETLANGUAGE] 
+
+Konumuz : [PROMPT] 
+
+20 adet Google Ads için reklam başlığı yaz (Toplam uzunluk 30 karakter)
+
+10 adet Google Ads için reklam açıklaması yaz (Toplam uzunluk 90 karakter)

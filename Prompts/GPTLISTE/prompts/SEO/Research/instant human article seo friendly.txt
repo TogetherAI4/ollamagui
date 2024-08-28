@@ -1,0 +1,16 @@
+AuthorName: Jobnas
+AuthorURL: https://jobnas.com
+
+Title: Instant Human Article SEO Friendly
+Category: Research
+Teaser: Get Best SEO Article Like a Human Write
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-20T04:44:23.899Z
+Help: 
+ID: 1793110635547193344
+PromptHint: [keyword]
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE] [keyword] [PROMPT]

@@ -1,0 +1,18 @@
+AuthorName: Jusi Monteiro
+AuthorURL: https://byfuze.com
+
+Title: Google Cloud Platform | GCP | Helper
+Category: Backend Development
+Teaser: Solve your Google Cloud Platform (GCP) issue with ease using this prompt. It will provide you a simple step-by-step solution to your problem. Just type your question, we'll handle the rest.
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-03-06T21:55:01.421Z
+Help: 
+ID: 1798443431031472128
+PromptHint: Question, example: How to create a Cloud Function?
+PromptPackageID: 0
+
+Prompt:
+Please ignore all previous requests. I'm going to ask a question related Google Cloud Platform (GCP), please answer this in full detail, providing a step-by-step guid in [TARGETLANGUAGE] on how to achieve a solution to the problem. You will assume that the project has already been created.
+
+The question is: [PROMPT]

@@ -1,0 +1,16 @@
+AuthorName: Adam Smartschan
+AuthorURL: https://altitudemarketing.com
+
+Title: Keyword Strategy
+Category: keywords
+Teaser: Create a keyword cluster strategy to rank higher for your topic.
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-03-30T13:06:26.537Z
+Help: 
+ID: 1807007717941051392
+PromptHint: Use the prompt for your target content topic.
+PromptPackageID: 0
+
+Prompt:
+Give me a list of target keywords for a business-to-business company website site seeking to rank high on Google for [PROMPT]. Please return a table including the keywords, search intent, keyword cluster, a sample content topic for each, and an outline of each sample content topic. Also indicate what type of content would work best for the specific keyword (e.g., a blog post, a white paper, a guide or a video). Return results in [TARGETLANGUAGE].

@@ -1,0 +1,21 @@
+AuthorName: Ruben Gallardo
+AuthorURL: https://aprendamosmarketing.com
+
+Title: Increase engagement with emojis
+Category: marketing
+Teaser: Make a text more engaging with emojis, useful for social media posts, whatsapp messages, emails and more.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-22T17:37:10.3Z
+Help: 
+ID: 1794029886059577344
+PromptHint: Add your post or comment here
+PromptPackageID: 0
+
+Prompt:
+Add some emojis to the following text in order to make it easier to read and more engaging.
+
+[PROMPT]
+
+Result should be in [TARGETLANGUAGE]
+Do not add any additional text or explanation to your answer 

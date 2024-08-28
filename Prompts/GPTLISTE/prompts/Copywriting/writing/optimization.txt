@@ -1,0 +1,17 @@
+AuthorName: Zain Shafiq
+AuthorURL: https://randomtools.com/
+
+Title: Optimization
+Category: writing
+Teaser: Get 10 Topics from a particular Keyword and their outlines in a table
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-14T10:50:19.486Z
+Help: 
+ID: 1791028396759969792
+PromptHint: [Get 10 Topics from a particular Keyword and their outlines in a table]
+PromptPackageID: 0
+
+Prompt:
+Get 10 Topics from a particular Keyword and their outlines in a table [TARGETLANGUAGE]
+[PROMPT]

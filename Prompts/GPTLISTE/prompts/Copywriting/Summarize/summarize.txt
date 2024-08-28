@@ -1,0 +1,18 @@
+AuthorName: Choiwonhyeok
+AuthorURL: https://examle.com
+
+Title: summarize
+Category: Summarize
+Teaser: Request Summarizing
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-20T04:18:27.984Z
+Help: 
+ID: 1803250969803485184
+PromptHint: article to summarize
+PromptPackageID: 0
+
+Prompt:
+Summarize to [TARGETLANGUAGE]
+
+[PROMPT]

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Manager</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/prompts">Prompts</a></li>
+                <li><a href="/chat">Chat</a></li>
+                <li><a href="#" id="toggle-add-prompt">Add New Prompt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Neuer zentraler Titel -->
+    <div class="hero">
+        <h1 class="main-title">Einfach.PROMPTS</h1>
+        <p class="subtitle">Effortless Prompt Management and Generation</p>
+    </div>
+
+    <div class="container">
+        <!-- Inhalt, der unterhalb der hero-section angezeigt wird -->
+        <div class="content">
+            <div class="prompt-list">
+                {% for prompt in prompts %}
+                    <div class="prompt-item">
+                        <h3>{{ prompt.cmd }}</h3>
+                        <button class="view-prompt" data-cmd="{{ prompt.cmd }}">Anzeigen</button>
+                    </div>
+                {% endfor %}
+            </div>
+
+            <div id="prompt-details" class="prompt-details" style="display:none;">
+                <h2>Prompt Details</h2>
+                <label for="edit-title">Titel:</label>
+                <input type="text" id="edit-title" style="display:none;">
+                <div id="details-title"></div>
+
+                <label for="edit-prompt">Prompt:</label>
+                <textarea id="edit-prompt" style="display:none;"></textarea>
+                <div id="details-content"></div>
+
+                <button id="edit-button">Bearbeiten</button>
+                <button id="save-button" style="display:none;">Speichern</button>
+                <button id="delete-button">Löschen</button>
+                <button id="close-details">Schließen</button>
+            </div>
+        </div>
+        
+        <div class="bottom-section">
+            <div class="add-prompt" id="add-prompt" style="display: none;">
+                <h3>Add New Prompt</h3>
+                <form id="add-prompt-form">
+                    <input type="text" id="new-title" placeholder="Title" required>
+                    <textarea id="new-prompt" rows="10" placeholder="Prompt" required></textarea>
+                    <button type="submit">Add Prompt</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function() {
+            // Prompts anzeigen, bearbeiten, speichern und löschen bleibt wie zuvor...
+            
+            // Neues Prompt hinzufügen
+            $('#toggle-add-prompt').click(function() {
+                $('#add-prompt').toggle();
+            });
+
+            $('#add-prompt-form').submit(function(e) {
+                e.preventDefault();
+                const newPrompt = {
+                    cmd: $('#new-title').val(),
+                    prompt: $('#new-prompt').val(),
+                    act: 'new'
+                };
+                console.log('Neues Prompt hinzufügen:', newPrompt);
+
+                $.ajax({
+                    url: '/prompts',
+                    method: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify(newPrompt),
+                    success: function(response) {
+                        alert('Prompt erfolgreich hinzugefügt!');
+                        location.reload();
+                    }
+                }).fail(function(jqxhr, textStatus, error) {
+                    console.error('Fehler beim Hinzufügen des Prompts:', textStatus, error);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

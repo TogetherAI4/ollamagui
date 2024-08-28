@@ -1,0 +1,16 @@
+AuthorName: Mersudin Forbes
+AuthorURL: https://www.mersudinforbes.com
+
+Title: Find Relevant Sites
+Category: ideation
+Teaser: Find topical sites around your target topic or keyword
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-01-23T16:22:33.92Z
+Help: 
+ID: 1783139474793033728
+PromptHint: [KEYWORD]
+PromptPackageID: 0
+
+Prompt:
+Give me a list of websites which are relevant to [PROMPT] 

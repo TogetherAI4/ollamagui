@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/prompts">Prompts</a></li>
+                <li><a href="/markdown">Markdown Dateien</a></li>
+                <li><a href="/chat">Chat</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <h1>Chat</h1>
+        <div class="chat-container">
+            <div class="chat-window" id="chat-window">
+                <!-- Chat-Nachrichten werden hier hinzugefügt -->
+            </div>
+            <form id="chat-form" class="chat-form">
+                <input type="text" id="chat-input" placeholder="Type a message..." required>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        
+        <!-- Gradio-App Integration -->
+        <h1>Chat Inference</h1>
+
+        <script type="module" src="https://gradio.s3-us-west-2.amazonaws.com/4.41.0/gradio.js"></script>
+        <gradio-app src="https://alfasign-einfach-chat.hf.space"></gradio-app>
+    </div>
+</body>
+</html>

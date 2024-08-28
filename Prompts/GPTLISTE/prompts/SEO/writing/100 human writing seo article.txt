@@ -1,0 +1,17 @@
+AuthorName: Shahid Afridi 
+AuthorURL: https://afriditech.com/image-generator/
+
+Title: 100% human writing SEO Article 
+Category: writing
+Teaser: 100% unique and 99% like human writing Article
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-04-22T23:24:32.309Z
+Help: 
+ID: 1815498187851685888
+PromptHint: [Write your keyword]
+PromptPackageID: 0
+
+Prompt:
+My first task is to create a full high-quality and original content about the keyword '[PROMPT]' in [TARGETLANGUAGE]. The article should provide unique and well-researched information that adds value to the reader. I will avoid duplicating content from other sources, fully optimize it for SEO, and make it easy to understand, as if it were written by a human. I will ensure it is easy to read and includes at least one subheading (H2, H3, or H4) with the focus keyword. The article should also have the focus keyword in the SEO title, appear within the first 10% of the content, and be mentioned every 100 words. Additionally, I will create an interesting and catchy title that hooks the readers. The article length should be must a minimum of 1000-1500 words, and I will use short paragraphs to enhance readability. Additionally, include at least 15 headings and subheadings (including H1, H2, H3, and H4 headings)
+

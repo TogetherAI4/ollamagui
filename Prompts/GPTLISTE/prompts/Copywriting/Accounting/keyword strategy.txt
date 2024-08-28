@@ -1,0 +1,16 @@
+AuthorName: shiv
+AuthorURL: https://intuitquickbookserrorsupport.com/
+
+Title: Keyword Strategy
+Category: Accounting
+Teaser: [Keyword]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-08T08:23:10.448Z
+Help: 
+ID: 1821069557935374336
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+ [TARGETLANGUAGE] and [PROMPT]

@@ -1,0 +1,19 @@
+AuthorName: Wakil
+AuthorURL: https://www.youtube.com/@tutorsgrip
+
+Title: Longtail Keyword Research Country, CPC , Volume
+Category: keywords
+Teaser: longtail keyword research (Country) with CPC, difficulty, and volume
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-15T10:52:04.261Z
+Help: 
+ID: 1791391224083775488
+PromptHint: [Type Keyword or kw + , + Country]
+PromptPackageID: 0
+
+Prompt:
+generate a table for 40 long tail related keywords 2-5 words with cpc , difficulty, and volume on the basis of user search intent by country which i given on the following primary keyword:
+also write source of cpc 
+[TARGETLANGUAGE]
+[PROMPT]

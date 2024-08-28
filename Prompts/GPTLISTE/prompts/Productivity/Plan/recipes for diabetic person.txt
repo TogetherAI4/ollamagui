@@ -1,0 +1,17 @@
+AuthorName: KitsuneDreams
+AuthorURL: https://dragonbugeminhareligiao.blogspot.com/
+
+Title: Recipes for diabetic person
+Category: Plan
+Teaser: Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+
+Community: Productivity-b5a49cdd0796137a
+CreationTime: 2023-02-09T22:41:49.01Z
+Help: 
+ID: 1789395510273245184
+PromptHint: Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol
+PromptPackageID: 0
+
+Prompt:
+[TARGETLANGUAGE]
+[PROMPT] Act as a nutritionist and create recipes for a diabetic, hypertensive and having cholesterol

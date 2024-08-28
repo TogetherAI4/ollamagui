@@ -1,0 +1,23 @@
+AuthorName: Thales Wendel
+AuthorURL: https://www.interblg.com/
+
+Title: Keyword Extract
+Category: keywords
+Teaser: Extract all keywords from an article
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-05-03T17:24:44.94Z
+Help: 
+ID: 1819393910385143808
+PromptHint: Paste article content here
+PromptPackageID: 0
+
+Prompt:
+I want it to extract the main keywords of an article. You must list me at least 10 keywords and they cannot be just one word. each keyword must be made up of two words. example: "foliar fertilizer, chemical insecticides" and so on.
+
+I want you to do it in the following syntax -> Keywords: word1, word2, ...
+I want you respect the syntaxe that I gave you.
+I want you to do write the whole syntax in [TARGETLANGUAGE]
+The article in question:
+
+[PROMPT]

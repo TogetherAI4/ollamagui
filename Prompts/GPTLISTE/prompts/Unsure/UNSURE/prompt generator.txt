@@ -1,0 +1,16 @@
+AuthorName: Kris
+AuthorURL: https://www.youtube.com/watch?v=6ojZKoTrB9c
+
+Title: Prompt Generator
+Category: UNSURE
+Teaser: Prompt Generator
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-04-30T15:29:29.396Z
+Help: 
+ID: 1818277740894482432
+PromptHint: [Prompts about...]
+PromptPackageID: 0
+
+Prompt:
+What are the absolute coolest, most mind-blowing, out of the box, ChatGPT prompts that will really show off the power of ChatGPT? Give me 10. Focus the prompts around [PROMPT]. Answer in [TARGETLANGUAGE]

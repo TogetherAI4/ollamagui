@@ -1,0 +1,16 @@
+AuthorName: Wqhadija M.
+AuthorURL: https://lnk.bio/wqhadija
+
+Title: Creating Captivating Digital Photo Art 
+Category: Midjourney
+Teaser: Write a prompt for creating an impressive illustration.
+
+Community: Generative-AI-b983edfcaa490850
+CreationTime: 2023-02-24T14:26:18.737Z
+Help: 
+ID: 1794706630454272000
+PromptHint: Write an eye-catching prompt idea for a [real life detailed] illustrations.
+PromptPackageID: 0
+
+Prompt:
+Write 10 eye-catching [PROMPT] prompt idea for a photo or illustrations [TARGETLANGUAGE].

@@ -1,0 +1,18 @@
+AuthorName: Research Prospect
+AuthorURL: https://bit.ly/3q9RUL4
+
+Title: Plagiarism Checker
+Category: Research
+Teaser: Check accurate plagiarism for my content
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-05-25T07:52:56.947Z
+Help: 
+ID: 1827222545276080128
+PromptHint: ChatGPT check plagiarism of your content, take advantage of this free tool.
+PromptPackageID: 0
+
+Prompt:
+Your task is to check the Plagiarism of given text and to check it's already published or not. All output should be in [TARGETLANGUAGE].
+
+[PROMPT]

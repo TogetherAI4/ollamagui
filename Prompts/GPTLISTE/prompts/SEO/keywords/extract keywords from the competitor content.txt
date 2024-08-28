@@ -1,0 +1,18 @@
+AuthorName: keyur shah
+AuthorURL: https://www.buymeacoffee.com/keyurshah8x
+
+Title: Extract Keywords From The Competitor Content
+Category: keywords
+Teaser: Use this prompt to extract the keywords from the competitor's content
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-19T09:40:14.219Z
+Help: 
+ID: 1792822697919774720
+PromptHint: [Add the content here that you want to extract keywords]
+PromptPackageID: 0
+
+Prompt:
+Your task is to extract all the keywords from the content that provided to you. All output shell be in [TARGETLANGUAGE]
+
+[PROMPT]

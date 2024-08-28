@@ -1,35 +1,35 @@
 export const INITIAL_QUESTIONS = [
   {
-    content: "What is the capital of France?",
+    content: "Was ist die Hauptstadt von Frankreich?",
   },
   {
-    content: 'Who wrote "To Kill a Mockingbird"?',
+    content: 'Wer schrieb "Wer die Nachtigall stört"?',
   },
   {
-    content: "What is the boiling point of water in Celsius?",
+    content: "Was ist der Siedepunkt von Wasser in Grad Celsius?",
   },
   {
-    content: "How many planets are there in our solar system?",
+    content: "Wie viele Planeten gibt es in unserem Sonnensystem?",
   },
   {
-    content: "What year did the Titanic sink?",
+    content: "In welchem Jahr sank die Titanic?",
   },
   {
-    content: "Who painted the Mona Lisa?",
+    content: "Wer hat die Mona Lisa gemalt?",
   },
   {
-    content: "What is the square root of 144?",
+    content: "Was ist die Quadratwurzel von 144?",
   },
   {
-    content: "Who is the current President of the United States?",
+    content: "Wer ist der aktuelle Präsident der Vereinigten Staaten?",
   },
   {
-    content: "What is the tallest mountain in the world?",
+    content: "Was ist der höchste Berg der Welt?",
   },
   {
-    content: "What is the chemical symbol for gold?",
+    content: "Was ist das chemische Symbol für Gold?",
   },
   {
-    content: "Who discovered penicillin?",
+    content: "Wer hat Penicillin entdeckt?",
   },
 ];

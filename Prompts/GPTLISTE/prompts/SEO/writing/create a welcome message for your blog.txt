@@ -1,0 +1,18 @@
+AuthorName: MUGHU
+AuthorURL: https://www.facebook.com/mughu.me
+
+Title: Create a Welcome message for your blog
+Category: writing
+Teaser: Create a welcome message for your blog
+
+Community: SEO-84c5d6a7b8e9f0c1
+CreationTime: 2023-02-14T01:56:10.524Z
+Help: 
+ID: 1790893973670453248
+PromptHint: Type Anything
+PromptPackageID: 0
+
+Prompt:
+write a welcome description for my blog with a [topic]
+[TARGETLANGUAGE]
+[PROMPT]

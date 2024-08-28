@@ -1,0 +1,18 @@
+AuthorName: fazil khan 
+AuthorURL: https://neurolatools.com/
+
+Title: Unique SEO optimize article 100% human written
+Category: writing
+Teaser: create full blog post the blog post will be SEO optimize and unique
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-28T04:55:21.773Z
+Help: 
+ID: 1796012497795547136
+PromptHint: [ Enter Title Here ]
+PromptPackageID: 0
+
+Prompt:
+your task is to write a blog  post or article  in all output shall be in [TARGETLANGUAGE]on the given title for the block post make sure that the content should be SEO optimized.
+
+[PROMPT]

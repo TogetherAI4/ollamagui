@@ -1,0 +1,20 @@
+AuthorName: CRO PROMPTS
+AuthorURL: https://www.linkedin.com/in/shubham-kumar-895a77257
+
+Title: Review mining
+Category: Research
+Teaser: For review mining- Copy paste reviews [PROMPT]
+
+Community: Marketing-cc647f5cf02ffd02
+CreationTime: 2023-02-19T12:09:00.227Z
+Help: 
+ID: 1792860136310837248
+PromptHint: Copy paste upto 50 reviews [PROMPT]
+PromptPackageID: 0
+
+Prompt:
+Analyze reviews and summarize basis of,Pain points, Features,	Benefits,	Results	Anxiety AND Use cases and Persona
+ALL output should be in [TARGETLANGUAGE]
+
+reviews are  [PROMPT] 
+

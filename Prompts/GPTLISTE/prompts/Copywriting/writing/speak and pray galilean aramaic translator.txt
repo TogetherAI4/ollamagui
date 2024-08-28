@@ -1,0 +1,23 @@
+AuthorName: Fabio AIlikio
+AuthorURL: https://www.instagram.com/ai_likio/
+
+Title: Speak and Pray Galilean Aramaic [Translator]
+Category: writing
+Teaser: Learn to speak ancient Galilean Aramaic through phonetics and translation. (Language spoken by Jesus)
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-03-18T19:12:31.976Z
+Help: 
+ID: 1802751193282502656
+PromptHint: [e.g. use the first sentence of the Our Father prayer]
+PromptPackageID: 0
+
+Prompt:
+Act as a teacher of Palestinian Christian Aramaic spoken at the time of Jesus by phonetically transcribing and translating [TARGETLANGUAGE] each sentence.
+Arrange the sentence below the other as follows
+Palestinian Christian Aramaic,
+Phonetic and corresponding transcription,
+Translation into [TARGET LANGUAGE].
+All outputs must be in [TARGETLANGUAGE]
+
+[PROMPT]

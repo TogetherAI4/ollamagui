@@ -1,0 +1,16 @@
+AuthorName: Lawal Lekan Ridwan
+AuthorURL: https://www.producthunt.com/products/1000-chatgpt-prompts-for-all
+
+Title: eBook Outline Generator
+Category: Accounting
+Teaser: Create the best ebook Outline. Enter your title and let the AI do the Work
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-01-24T20:11:57.211Z
+Help: 
+ID: 1783559590085132288
+PromptHint: [Enter Your Ebook topic}
+PromptPackageID: 0
+
+Prompt:
+Create best Ebook Outline on [PROMPT]. All output shall be in  [TARGETLANGUAGE]

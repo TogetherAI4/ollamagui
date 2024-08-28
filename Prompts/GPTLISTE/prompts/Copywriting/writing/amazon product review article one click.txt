@@ -1,0 +1,23 @@
+AuthorName: Vishal Jaiswal
+AuthorURL: https://www.provishal.com/
+
+Title: Amazon Product Review Article [One Click]
+Category: writing
+Teaser: Get a short and sweet SEO friendly product review article for your blog or product review website.
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-06T15:31:27.862Z
+Help: 
+ID: 1788200044932104192
+PromptHint: Enter Product Name
+PromptPackageID: 0
+
+Prompt:
+Product Name: [PROMPT]
+[PROMPT] Description (200 words):
+Key Feature (Pointwise):
+Pros (Pointwise):
+Cons (Pointwise):
+Conclusion:
+
+Write all output in [TARGETLANGUAGE].

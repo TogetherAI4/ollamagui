@@ -1,0 +1,20 @@
+AuthorName: Haukur Arnason
+AuthorURL: https://www.linkedin.com/in/haukurarna/
+
+Title: Tech Business Analysis Report
+Category: writing
+Teaser: Growth, business, tech
+
+Community: Unsure-f69c57b424376b23
+CreationTime: 2023-02-20T11:11:23.282Z
+Help: 
+ID: 1793208024698195968
+PromptHint: Description of the business analysis you want to make
+PromptPackageID: 0
+
+Prompt:
+As an analyst with comprehensive experience in software development, technology an business operations write about
+
+ [PROMPT].
+
+ In professional business [TARGETLANGUAGE]. The summary should be detailed and firstly describe the topic and then reflect on it. 

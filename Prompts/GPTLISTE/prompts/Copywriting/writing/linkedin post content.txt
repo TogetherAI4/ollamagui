@@ -1,0 +1,18 @@
+AuthorName: Deftsoft
+AuthorURL: https://deftsoftseo.com/
+
+Title: LinkedIn Post Content
+Category: writing
+Teaser: Write LinkedIn Post Content [KEYWORD]
+
+Community: Copywriting-00ea56f446414284
+CreationTime: 2023-02-02T06:57:31.563Z
+Help: 
+ID: 1786621156657455104
+PromptHint: [Keyword]
+PromptPackageID: 0
+
+Prompt:
+Generate LinkedIn Post  [TARGETLANGUAGE]
+
+[PROMPT]

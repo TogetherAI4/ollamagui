@@ -1,0 +1,20 @@
+AuthorName: Fabien Piette
+AuthorURL: https://github.com/fabienpiette
+
+Title: Git commit suggestion
+Category: Backend Development
+Teaser: Git commit suggestion
+
+Community: SoftwareEngineering-f1858b980c341d28
+CreationTime: 2023-02-22T11:03:18.829Z
+Help: 
+ID: 1793930768486240256
+PromptHint: Copy your git diff
+PromptPackageID: 0
+
+Prompt:
+What follows "-------" is a git diff for a potential commit.
+Reply in [TARGETLANGUAGE] with a markdown unordered list of 5 possible, different Git commit messages (a Git commit message should be concise but also try to describe the important changes in the commit), order the list by what you think would be the best commit message first, and don't include any other text but the 5 messages in your response.
+------- 
+[PROMPT]
+-------
